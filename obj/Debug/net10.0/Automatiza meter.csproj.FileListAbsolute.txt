@@ -1,0 +1,20 @@
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\Automatiza meter.exe
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\Automatiza meter.deps.json
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\Automatiza meter.runtimeconfig.json
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\Automatiza meter.dll
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\Automatiza meter.pdb
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\WebDriver.dll
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\runtimes\linux\native\selenium-manager
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\runtimes\osx\native\selenium-manager
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\bin\Debug\net10.0\runtimes\win\native\selenium-manager.exe
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.csproj.AssemblyReference.cache
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.AssemblyInfoInputs.cache
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.AssemblyInfo.cs
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.csproj.CoreCompileInputs.cache
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automati.51821DCA.Up2Date
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.dll
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\refint\Automatiza meter.dll
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.pdb
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\Automatiza meter.genruntimeconfig.cache
+C:\Users\macedob\Downloads\Automatiza meter\Automatiza meter\obj\Debug\net10.0\ref\Automatiza meter.dll
